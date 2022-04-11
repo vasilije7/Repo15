@@ -1,0 +1,29 @@
+nav li {
+  list-style: none;
+  display: inline;
+  padding-left: 10px;
+}
+nav {
+  margin-left: 85%;
+}
+#sign_in a {
+  border: solid 1px rgb(255, 255, 255);
+  padding: 4px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  font-weight: 540;
+}
+#gmail a {
+  text-decoration: none;
+  color: rgb(101, 102, 103);
+}
+
+#images a {
+  text-decoration: none;
+  color: rgb(101, 102, 103);
+}
+.google-image a img {
+  float: center;
+}
